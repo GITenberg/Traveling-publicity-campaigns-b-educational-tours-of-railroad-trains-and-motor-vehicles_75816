@@ -1,0 +1,28 @@
+_repo: Traveling-publicity-campaigns-b-educational-tours-of-railroad-trains-and-motor-vehicles_75816
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Routzahn, Mary Swain
+    gutenberg_agent_id: '58163'
+    url: http://www.gutenberg.org/2009/agents/58163
+description: ''
+gutenberg_issued: '2025-04-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75816'
+language: en
+pgterms:marc904: https://archive.org/details/publictravel00routrich/page/n5/mode/2up
+pgterms:marc905: 20220706134628routzahn
+pgterms:marc906: '1903'
+pgterms:marc907: US
+production_note: The Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aPhiladelphia :$bWm. F. Fell Co., $c1903.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Traveling publicity campaigns : $b educational tours of railroad trains and
+  motor vehicles'
+url: http://www.gutenberg.org/ebooks/75816
