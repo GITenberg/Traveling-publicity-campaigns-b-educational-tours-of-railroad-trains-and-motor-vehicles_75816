@@ -1,11 +1,16 @@
 _repo: Traveling-publicity-campaigns-b-educational-tours-of-railroad-trains-and-motor-vehicles_75816
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 75816-h/images/cover.jpg
 creator:
   author:
     agent_name: Routzahn, Mary Swain
     gutenberg_agent_id: '58163'
     url: http://www.gutenberg.org/2009/agents/58163
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75816#Traveling-publicity-campaigns-b-educational-tours-of-railroad-trains-and-motor-vehicles
 gutenberg_issued: '2025-04-08'
 gutenberg_type: Text
 identifiers:
